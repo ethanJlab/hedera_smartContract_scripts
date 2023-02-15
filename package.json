@@ -1,0 +1,20 @@
+{
+  "name": "hedera-contract-deployment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contract_deployment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/hethers": "^1.2.5",
+    "@hashgraph/sdk": "^2.19.2",
+    "abi": "^0.0.0",
+    "axios": "^1.2.6",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "web3": "^1.8.2"
+  }
+}

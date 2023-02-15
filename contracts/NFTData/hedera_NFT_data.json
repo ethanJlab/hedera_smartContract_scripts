@@ -1,0 +1,133 @@
+//generate 10 jsons of mock data for teachers
+
+{
+    "FirstName": "John",
+    "LastName": "Doe",
+    "School": "West High School",
+    "Grade": "9",
+    "Subject": "Math",
+    "Email": "JohnDoe@email.com",
+    "Phone": "555-555-5555",
+    "Education": "Bachelors in Math",
+    "Experience": "5 years teaching",
+    "Bio": "I am a math teacher at West High School. I have been teaching for 5 years and I love it. I have a bachelors in math and I am currently working on my masters in math. I have a passion for teaching and I love to see my students succeed."
+}
+
+{
+    "FirstName": "Jane",
+    "LastName": "Smith",
+    "School": "East Elementary",
+    "Grade": "5",
+    "Subject": "English",
+    "Email": "JaneSmith@email.com",
+    "Phone": "555-555-5556",
+    "Education": "Masters in English Literature",
+    "Experience": "10 years teaching",
+    "Bio": "I am an English teacher at East Elementary. I have been teaching for 10 years and have a Masters in English Literature. My love for the English language drives me to create engaging and fun lessons for my students. I am dedicated to helping each student reach their full potential."
+}
+
+{
+    "FirstName": "Michael",
+    "LastName": "Johnson",
+    "School": "North Middle School",
+    "Grade": "8",
+    "Subject": "Science",
+    "Email": "MichaelJohnson@email.com",
+    "Phone": "555-555-5557",
+    "Education": "PhD in Biology",
+    "Experience": "7 years teaching",
+    "Bio": "I am a science teacher at North Middle School, specializing in biology. With a PhD in the subject and 7 years of experience, I strive to make science both informative and exciting for my students. I believe in hands-on learning and using real-world examples to bring the subject to life."
+}
+
+{
+    "FirstName": "Emily",
+    "LastName": "Brown",
+    "School": "South High School",
+    "Grade": "12",
+    "Subject": "History",
+    "Email": "EmilyBrown@email.com",
+    "Phone": "555-555-5558",
+    "Education": "Bachelors in History, Masters in Education",
+    "Experience": "15 years teaching",
+    "Bio": "I am a history teacher at South High School with over 15 years of experience in education. I hold a Bachelors in History and a Masters in Education. I believe in making history come alive for my students and showing them the relevance of the past to the present. I strive to create a supportive and inclusive learning environment where every student feels valued and respected."
+}
+
+{
+    "FirstName": "David",
+    "LastName": "Davis",
+    "School": "Central Elementary",
+    "Grade": "3",
+    "Subject": "Art",
+    "Email": "DavidDavis@email.com",
+    "Phone": "555-555-5559",
+    "Education": "Masters in Fine Arts",
+    "Experience": "8 years teaching",
+    "Bio": "I am an art teacher at Central Elementary, with a Masters in Fine Arts. With 8 years of experience, I love to inspire creativity and self-expression in my students. I believe that art is not only a subject to learn, but also a way to experience and understand the world. I create a fun and inclusive classroom environment where every student can discover and develop their artistic abilities."
+}
+
+{
+    "FirstName": "Sarah",
+    "LastName": "Miller",
+    "School": "Northwest Middle School",
+    "Grade": "7",
+    "Subject": "Physical Education",
+    "Email": "SarahMiller@email.com",
+    "Phone": "555-555-5560",
+    "Education": "Bachelors in Physical Education, Masters in Sports Science",
+    "Experience": "12 years teaching",
+    "Bio": "I am a physical education teacher at Northwest Middle School with 12 years of experience. I hold a Bachelors in Physical Education and a Masters in Sports Science. I believe in promoting healthy lifestyles and encouraging students to be active and engaged in physical activity. My goal is to create a fun and inclusive environment where every student can develop their physical skills and confidence."
+}
+
+{
+    "FirstName": "William",
+    "LastName": "Lee",
+    "School": "Southeast High School",
+    "Grade": "11",
+    "Subject": "Music",
+    "Email": "WilliamLee@email.com",
+    "Phone": "555-555-5561",
+    "Education": "Bachelors in Music Education, Masters in Performance",
+    "Experience": "9 years teaching",
+    "Bio": "I am a music teacher at Southeast High School with 9 years of experience. I have a Bachelors in Music Education and a Masters in Performance. I believe that music is a universal language that brings people together and allows for self-expression. In my class, I strive to create a supportive and inclusive environment where every student can develop their musical skills and find their own voice."
+}
+
+{
+    "FirstName": "Emily",
+    "LastName": "Johnson",
+    "School": "West Elementary",
+    "Grade": "4",
+    "Subject": "Mathematics",
+    "Email": "EmilyJohnson@email.com",
+    "Phone": "555-555-5562",
+    "Education": "Bachelors in Mathematics, Masters in Education",
+    "Experience": "11 years teaching",
+    "Bio": "I am a mathematics teacher at West Elementary with 11 years of experience in education. I have a Bachelors in Mathematics and a Masters in Education. I believe in making mathematics accessible and enjoyable for all students. I strive to create a positive and engaging learning environment where every student can build their confidence and problem-solving skills."
+}
+
+{
+    "FirstName": "John",
+    "LastName": "Smith",
+    "School": "East High School",
+    "Grade": "10",
+    "Subject": "English",
+    "Email": "JohnSmith@email.com",
+    "Phone": "555-555-5563",
+    "Education": "Bachelors in English Literature, Masters in Education",
+    "Experience": "13 years teaching",
+    "Bio": "I am an English teacher at East High School with over 13 years of experience in education. I have a Bachelors in English Literature and a Masters in Education. I believe in the power of language and strive to help my students develop their skills as critical readers and effective communicators. I create a dynamic and inclusive learning environment where every student feels valued and inspired to explore the world through literature."
+}
+
+{
+    "FirstName": "Sam",
+    "LastName": "Smith",
+    "School": "North Elementary",
+    "Grade": "2",
+    "Subject": "English",
+    "Email": "SamSmith@email.com",
+    "Phone": "555-555-5563",
+    "Education": "Bachelors in English Literature, Masters in Education",
+    "Experience": "7 years teaching",
+    "Bio": "I am an English teacher at North Elementary with 7 years of experience. I hold a Bachelors in English Literature and a Masters in Education. I believe that language and communication are the foundation of all learning and personal growth. In my class, I strive to create a supportive and inclusive environment where every student can build their reading, writing, and speaking skills."
+}
+
+
